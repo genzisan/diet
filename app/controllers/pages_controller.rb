@@ -6,4 +6,7 @@ class PagesController < ApplicationController
   def second
   end
 
+  def third
+  end
+
 end
