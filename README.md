@@ -1,24 +1,87 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## アプリケーション名
 
-Things you may want to cover:
+# diet
 
-* Ruby version
+## 概要
 
-* System dependencies
+- ダイエットの悩みを解消することを目的としたアプリケーションになっています。
 
-* Configuration
+- 仕様としてはホームページであり、LP制作目的です。
 
-* Database creation
+## 本番環境URL
 
-* Database initialization
+- https://diet-portfolio.herokuapp.com/
 
-* How to run the test suite
+## Basic認証
+ 
+- ユーザー名『test』
+- パスワード 『1234』
 
-* Services (job queues, cache servers, search engines, etc.)
+## 利用方法
 
-* Deployment instructions
+- ログインや投稿機能はなく、シンプルな作りになっています。
+ホームページを見ることでダイエットの悩みを解消したり、各種ボタンをクリックすることで目的のページへ推移することが出来ます。
 
-* ...
+## 要件定義
+
+- 
+
+## 実装した機能のGIF動画と説明
+
+### トップページ全体象
+
+- https://gyazo.com/24099db92dd700472bf124a9bd1cad73
+
+ユーザーにとって見やすいデザインを意識し、
+内容もストーリー性を持たせ、ユーザーのダイエットでの悩みに共感出来るページに仕上げています。
+
+### ボタン仕様、よくある質問ページ
+
+- https://gyazo.com/137c20438a86f5a93f1c169fbd38fc54
+
+視覚的情報を意識し、ボタンhover時、クリック時に変化を変化を加え、ホームページのクオリティーを保てるように意識しました。
+また、質問ページはトップページに比べ、
+顧客のリアルな声をQ＆A方式で表示しており、
+より悩みに寄り添い、解決にようなページ仕様になっています。
+
+
+### スクール内容
+
+- https://gyazo.com/81d65a90d932642437ee362475dc4953
+- https://gyazo.com/562862b994e5833759877d80f330a065
+
+ホームページだけでは伝え切れないダイエットの情報を詳細かつ、具体的に体感出来るようにスクールを用意しました。
+文章だけでは理解出来ない部分があるので、質問、相談が出来る体制を作り、顧客満足度をあげるサービスになっています。
+
+## 使用技術
+
+- HTML/CSS
+- Ruby
+- Ruby on Rails
+- javascript
+- jquery
+
+## 実装予定機能
+
+- javascript,jqueryを用いプルダウンメニュー、
+非同期のページを実装し、レスポンスの早いアプリに仕上げ、ユーザーにストレスを感じさせないアプリを実装したいと思っています。
+
+- railsでログイン機能を追加し、
+会員はログインすることにより、アプリケーション内でカリキュラムを受けらるサービスを実装したいです。
+
+## 設計
+
+
+
+
+
+
+
+
+
+
+
+
+
