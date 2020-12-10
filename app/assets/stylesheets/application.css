@@ -392,6 +392,7 @@ footer {
 .information-three {
   border-top: 5px solid gold;
   padding: 20px 30px;
+  background: rgb(255, 252, 227);
 }
 
 .information-image {
