@@ -1,5 +1,4 @@
 class PagesController < ApplicationController
-
   def index
   end
 
@@ -8,5 +7,4 @@ class PagesController < ApplicationController
 
   def third
   end
-
 end
