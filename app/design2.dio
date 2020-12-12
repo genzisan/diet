@@ -1,0 +1,94 @@
+<mxfile host="65bd71144e" modified="2020-12-12T03:24:34.715Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.0 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36" version="13.10.0" etag="gYroYj-A8G9adkK3uUVi" type="embed">
+    <diagram id="OS82m-nDKtofL9W1v7Pj" name="ページ1">
+        <mxGraphModel dx="698" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="40" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="95" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="20" width="610" height="610" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="ヘッダー" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="50" width="500" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="ロゴ画像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="60" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="よくある質問" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="60" width="84" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="お問い合わせ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="60" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="210" width="500" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="220" width="340" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="wrapper-container&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="230" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="ヘッダー" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="570" width="500" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="&lt;font style=&quot;font-size: 24px&quot;&gt;body&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="50" width="60" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="heading" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="120" width="490" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="inner&lt;br&gt;max-width:1170px&lt;br&gt;margin:0 auto&lt;br&gt;background:&lt;br&gt;lightpink:&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="580" y="150" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="heading h2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="160" width="490" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="image&lt;br&gt;（userアイコン）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="230" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="pタグ（質問）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="230" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="300" width="500" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="wrapper-container&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="310" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="125" y="310" width="335" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="image&lt;br&gt;（userアイコン）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="320" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="pタグ（質問）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="320" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="&lt;font style=&quot;font-size: 12px&quot;&gt;質問形式view&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="220" width="70" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="&lt;font style=&quot;font-size: 12px&quot;&gt;質問形式view(アンサー)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="315" width="70" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="wrapperが逆仕様" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="465" y="350" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="※１" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="260" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="※２" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="350" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="※１のviewを繰り返し" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="400" width="500" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="※２のviewを繰り返し" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="480" width="500" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
